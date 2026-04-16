@@ -27,7 +27,7 @@
 3. [AST(Abstract Syntax Tree) 및 불변성 분석](https://github.com/woowacourse-BE8-13F-study/opensource-java-study/discussions/6) *(작성자: 마이찬)*
 4. [Active Record 패턴과 상태 관리 (Dirty Checking) 분석](https://github.com/woowacourse-BE8-13F-study/opensource-java-study/discussions/7) *(작성자: 마이찬)*
 5. [쿼리 렌더링과 Visitor 패턴 분석](https://github.com/woowacourse-BE8-13F-study/opensource-java-study/discussions/8) *(작성자: 카키)*
-6. [메타데이터와 코드 제너레이션 (Code Generation) 분석]() *(작성자: )*
+6. [JOOQ가 DB Dialect 차이를 해결하기 위해 선택한 추상화와 객체 모델링](https://github.com/woowacourse-BE8-13F-study/opensource-java-study/discussions/9) *(작성자: 샤를)*
 
 
 ## 스터디원
